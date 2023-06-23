@@ -451,7 +451,7 @@ function print() { __p += __j.call(arguments, '') }
           class="btn nav__btn nav__analytics-btn disabled"
           disabled="true"
         >
-          <img src=".../images/analytics.png" alt="analytics" />
+          <img src="./images/analytics.png" alt="analytics" />
         </button>
       </div>
       <div class="info" id="info">
