@@ -88,7 +88,7 @@ function print() { __p += __j.call(arguments, '') }
           <div class="filters__header">
             <img
               class="filters__icon"
-              src="./images/calendar.png"
+              src="./images/calendar.svg"
               alt="Иконка календаря"
             />
             <h2 class="filters__big-title section-title">Выберите период</h2>
@@ -116,7 +116,7 @@ function print() { __p += __j.call(arguments, '') }
           <div class="filters__header">
             <img
               class="filters__icon"
-              src="./images/calendar.png"
+              src="./images/file.svg"
               alt="Иконка календаря"
             />
             <h2 class="filters__big-title section-title">Выберите файл</h2>
@@ -142,7 +142,7 @@ function print() { __p += __j.call(arguments, '') }
           <div class="filters__item">
             <div class="filters__header">
               <img
-                src="./images/search.png"
+                src="./images/search.svg"
                 alt="Иконка поиска"
                 class="filters__icon"
               />
@@ -163,7 +163,7 @@ function print() { __p += __j.call(arguments, '') }
           <div class="filters__item">
             <div class="filters__header">
               <img
-                src="./images/marker.png"
+                src="./images/marker.svg"
                 alt="Иконка карты"
                 class="filters__icon"
               />
@@ -184,7 +184,7 @@ function print() { __p += __j.call(arguments, '') }
           <div class="filters__item">
             <div class="filters__header">
               <img
-                src="./images/marker-on-map.png"
+                src="./images/marker-on-map.svg"
                 alt="Иконка карты"
                 class="filters__icon"
               />
@@ -372,7 +372,7 @@ function print() { __p += __j.call(arguments, '') }
           <div class="filters__item">
             <div class="filters__header">
               <img
-                src="./images/rub.png"
+                src="./images/rub.svg"
                 alt="Иконка рубля"
                 class="filters__icon"
               />
@@ -469,7 +469,7 @@ function print() { __p += __j.call(arguments, '') }
           class="btn nav__btn nav__analytics-btn disabled"
           disabled="true"
         >
-          <img src="./images/analytics.png" alt="analytics" />
+          <img src="./images/analytics.svg" alt="analytics" />
         </button>
       </div>
       <div class="info" id="info">
